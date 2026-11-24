@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+  <title>The everything-car</title>
+  <desc>An original conceptual drawing of a car overloaded with boxes of requirements.</desc>
+  <g fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round">
+    <path d="M32 208H688" />
+    <path d="M126 176L152 139H352L389 169H428V195H111V176Z" />
+    <path d="M179 140L192 113H297L328 140M249 115V139" />
+    <circle cx="170" cy="193" r="20" />
+    <circle cx="365" cy="193" r="20" />
+    <path d="M175 89H323V113H175Z" />
+    <path d="M190 57H270V89H190ZM270 41H341V89H270ZM211 17H287V41H211Z" />
+    <path d="M232 18V40M305 42V88M213 58V88" />
+    <path d="M473 134H552V195H473ZM512 135V158" />
+    <path d="M457 110L422 95M434 88L422 95L427 108" />
+    <path d="M575 168H660M575 180H638" />
+  </g>
+  <g fill="#000000">
+    <circle cx="170" cy="193" r="5" />
+    <circle cx="365" cy="193" r="5" />
+  </g>
+</svg>

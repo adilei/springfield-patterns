@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+  <title>The AI sales pitch</title>
+  <desc>An original conceptual drawing of a train, an unfinished track, and a neglected road.</desc>
+  <g fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round">
+    <path d="M30 225H690M30 194H690" />
+    <path d="M70 209H130M170 209H230M440 209H500M540 209H600" />
+    <path d="M315 194L300 202L323 209L305 217L312 225" />
+    <path d="M68 142H492M68 150H492M125 151V193M371 151V193" />
+    <path d="M114 85H353Q389 85 412 123L414 135H104V98Z" />
+    <path d="M128 98H170V120H128ZM188 98H230V120H188ZM248 98H290V120H248ZM310 98H350L377 120H310Z" />
+    <path d="M519 36H665V112H519ZM545 113V174M639 113V174" />
+    <path d="M467 130L487 115M501 142H521M477 158L491 173" />
+  </g>
+  <text x="592" y="88" text-anchor="middle" fill="#000000" font-family="system-ui, sans-serif" font-size="44" font-weight="700">AI</text>
+</svg>
